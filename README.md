@@ -4,7 +4,7 @@
 - O desenvolvimento foi baseado no mini-curso oferecido pela ***rocktseat***, durante evento do ***Ignite Lab de NodeJS***
 
 
-## Installation
+## Instalação
 
 ```bash
 $ yarn install
