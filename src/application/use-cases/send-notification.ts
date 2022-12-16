@@ -13,7 +13,7 @@ interface SendNotificationResponse {
     notification: Notification
 }
 
-@Injectable()
+@Injectable() //acoplamento 
 export class SendNotification {
     constructor(private notificationRepository: NotificationsRepository) {}
 
